@@ -30,4 +30,6 @@ Currently, the project is at ideation stage, but that does not mean it’s far a
 In addition, the team had experience on industry Android application development and academic machine learning knowledge, which will definitely help deliver the project in time.
 
 ## Tell us about you.
-We (Zhongyu Wang and Zihan Guo) are two software engineers from Uber and Asana, and we previously worked at Google and Microsoft Research. As of mobile experience, Zhongyu worked on both Rider app and Driver app at Uber for the past 4 years, and Zihan worked on Asana android app for the past 2 years. As of machine learning experience, Zhongyu did a project at Google to use Google Brain to generate app collection recommendation for Google Play content.
+We (Zhongyu Wang and Zihan Guo) are two software engineers from Uber and Asana, and we previously worked at Google and Microsoft Research. 
+As of mobile experience, Zhongyu worked on both Rider app and Driver app at Uber for the past 4 years, and Zihan worked on Asana android app for the past 2 years (the full projects list can be found [here](https://github.com/ZongZiWang/parking-or-not/blob/master/PREVIOUS_PROJECTS.md)).
+As of machine learning experience, Zhongyu did a project at Google to use Google Brain to generate app collection recommendation for Google Play content.
